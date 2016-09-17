@@ -89,7 +89,7 @@ msgstr "Police:"
 
 #: ../gtk/data/editor_hocr.ui.h:5 ../qt/data/PdfExportDialog.ui.h:2
 msgid "Use detected font sizes"
-msgstr "Utiliser les tailles de police détectés"
+msgstr "Utiliser les tailles de police détectées"
 
 #: ../gtk/data/editor_hocr.ui.h:6 ../qt/data/PdfExportDialog.ui.h:4
 msgid "Uniformize line spacing"
@@ -193,7 +193,7 @@ msgstr "Autres options"
 
 #: ../gtk/data/editor_text.ui.h:16 ../qt/src/Ui_OutputEditorText.hh:77
 msgid "Join hyphenated words"
-msgstr "Lier les mots composés"
+msgstr "Décésurer"
 
 #: ../gtk/data/editor_text.ui.h:17 ../qt/src/Ui_OutputEditorText.hh:79
 msgid "Collapse whitespace"
@@ -201,7 +201,7 @@ msgstr "Réduire les espaces"
 
 #: ../gtk/data/editor_text.ui.h:18 ../qt/src/Ui_OutputEditorText.hh:81
 msgid "Preserve paragraphs"
-msgstr "Préserver paragraphes"
+msgstr "Préserver les paragraphes"
 
 #: ../gtk/data/editor_text.ui.h:19 ../qt/src/Ui_OutputEditorText.hh:83
 msgid "Visual aids"
@@ -209,15 +209,15 @@ msgstr "Aides visuelles"
 
 #: ../gtk/data/editor_text.ui.h:20 ../qt/src/Ui_OutputEditorText.hh:85
 msgid "Draw whitespace"
-msgstr "Dessiner les espaces"
+msgstr "Afficher les espaces"
 
 #: ../gtk/data/editor_text.ui.h:21 ../gtk/data/gimagereader.ui.h:6
 msgid "Select language"
-msgstr "Sélectionner langue"
+msgstr "Sélectionner la langue"
 
 #: ../gtk/data/editor_text.ui.h:22 ../qt/src/Ui_OutputEditorText.hh:102
 msgid "Select insert mode"
-msgstr "Sélectionner mode d'insertion"
+msgstr "Sélectionner le mode d'insertion"
 
 #: ../gtk/data/editor_text.ui.h:23 ../qt/src/Ui_OutputEditorText.hh:114
 msgid "Find and replace"
@@ -248,11 +248,11 @@ msgstr "Remplacer tous"
 
 #: ../gtk/data/editor_text.ui.h:31 ../qt/src/Ui_OutputEditorText.hh:163
 msgid "Find previous"
-msgstr "Trouver précédente"
+msgstr "Trouver l'occurence précédente"
 
 #: ../gtk/data/editor_text.ui.h:32 ../qt/src/Ui_OutputEditorText.hh:158
 msgid "Find next"
-msgstr "Trouver suivante"
+msgstr "Trouver l'occurence suivante"
 
 #: ../gtk/data/editor_text.ui.h:33 ../qt/src/Ui_OutputEditorText.hh:182
 msgid "Match case"
@@ -285,11 +285,11 @@ msgstr "Supprimer l'image de la liste"
 
 #: ../gtk/data/gimagereader.ui.h:8 ../qt/src/Ui_MainWindow.hh:190
 msgid "Delete image"
-msgstr "Supprimer image"
+msgstr "Supprimer l'image"
 
 #: ../gtk/data/gimagereader.ui.h:9 ../qt/src/Ui_MainWindow.hh:193
 msgid "Clear list"
-msgstr "Vider liste"
+msgstr "Vider la liste"
 
 #: ../gtk/data/gimagereader.ui.h:10 ../qt/data/MainWindow.ui.h:6
 msgid "Files"
@@ -345,7 +345,7 @@ msgstr "Résolution"
 
 #: ../gtk/data/gimagereader.ui.h:23 ../qt/data/MainWindow.ui.h:5
 msgid "Invert colors"
-msgstr "Invertir couleurs"
+msgstr "Invertir les couleurs"
 
 #: ../gtk/data/gimagereader.ui.h:24 ../qt/data/MainWindow.ui.h:19
 msgid "Zoom in"
@@ -498,7 +498,7 @@ msgstr "Reconnaître et coller dans le passe-papiers"
 
 #: ../gtk/data/gimagereader.ui.h:67 ../qt/src/DisplayerToolSelect.cc:264
 msgid "Save as image"
-msgstr "Enregistrer image"
+msgstr "Enregistrer l'image"
 
 #: ../gtk/data/gimagereader.ui.h:68 ../qt/src/Recognizer.cc:65
 msgid "Current Page"
@@ -760,7 +760,7 @@ msgstr "Fichiers HTML hOCR"
 
 #: ../gtk/src/OutputEditorHOCR.cc:650 ../qt/src/OutputEditorHOCR.cc:574
 msgid "Open hOCR File"
-msgstr "Ouvrir fichier hOCR"
+msgstr "Ouvrir un fichier hOCR"
 
 #: ../gtk/src/OutputEditorHOCR.cc:659 ../qt/src/OutputEditorHOCR.cc:580
 msgid "Failed to open file"
@@ -875,11 +875,11 @@ msgstr "Multilingue"
 
 #: ../gtk/src/Recognizer.cc:252 ../qt/src/Recognizer.cc:245
 msgid "Detect script and orientation"
-msgstr "Détecter script et orientation"
+msgstr "Détecter l'écriture et l'orientation"
 
 #: ../gtk/src/Recognizer.cc:260 ../qt/src/Recognizer.cc:254
 msgid "Manage languages..."
-msgstr "Gérer langues..."
+msgstr "Gérer les langues..."
 
 #: ../gtk/src/Recognizer.cc:377 ../qt/src/Recognizer.cc:381
 msgid ""
